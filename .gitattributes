@@ -1,0 +1,15 @@
+* text=auto
+
+*.cs text eol=lf
+*.csproj text eol=lf
+*.config text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+*.exe binary
+*.dll binary
+*.pdb binary
+*.zip binary

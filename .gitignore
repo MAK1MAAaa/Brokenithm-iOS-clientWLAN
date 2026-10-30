@@ -1,0 +1,30 @@
+# Build and portable release output
+/bin/
+/obj/
+/dist/
+/tests/bin/
+/tests/tmp/
+*.exe
+*.dll
+*.pdb
+/Brokenithm-LAN.exe.config
+
+# Runtime diagnostics and local updates
+/logs/
+*.log
+*.pending.exe
+*.bak
+*.tmp
+*.old
+*~
+
+# IDE and operating-system files
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.DS_Store
+Thumbs.db
+Desktop.ini
