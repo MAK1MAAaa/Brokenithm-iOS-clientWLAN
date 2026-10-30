@@ -1,5 +1,7 @@
 # Brokenithm LAN
 
+**[下载 Windows 独立运行包](https://github.com/MAK1MAAaa/Brokenithm-iOS-clientWLAN/releases/latest/download/Brokenithm-LAN-portable.zip)** · [查看最新 Release 与更新说明](https://github.com/MAK1MAAaa/Brokenithm-iOS-clientWLAN/releases/latest)
+
 Windows 接收端，将 [Brokenithm-SwiftUI](https://github.com/OWCramer/Brokenithm-SwiftUI) 的 iPhone/iPad 触摸输入通过局域网转发到兼容的 CHUNITHM I/O 驱动，并回传灯光数据。
 
 默认自动发现设备、静默等待，仅在握手成功后显示连接成功信息。支持手动 IP、自动重连、关闭灯光和按需诊断日志。
